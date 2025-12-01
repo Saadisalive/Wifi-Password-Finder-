@@ -22,7 +22,7 @@ A simple Python tool that shows the **saved Wi-Fi password of the currently conn
 
 ---
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style= for-the-badge"> <img src="https://img.shields.io/badge/Platform-Windows-00aaff?style=for-the-badge"> <img src="https://img.shields.io/badge/Safe%20To%20Use-Yes-brightgreen?style=for-the-badge"> </p> <p align="center"> 🔐 A clean and safe Python utility that displays **your saved Wi-Fi password** on **your own Windows device**. No hacking — 100% legal, educational, and secure. </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style= for-the-badge"> <img src="https://img.shields.io/badge/Platform-Windows-00aaff?style=for-the-badge"> <img src="https://img.shields.io/badge/Safe%20To%20Use-Yes-brightgreen?style=for-the-badge"> </p> <p align="center"> 🔐 A clean and safe Python utility that displays **your saved Wi-Fi password** on your own Windows device. _No hacking — 100% legal_, educational, and secure. </p>
 
 
 ## ▶️ How to Run
